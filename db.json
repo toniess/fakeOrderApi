@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "orders": [
     {
       "id": 1,
-      "title": "hello"
+      "date": "2024-12-12T10:00:00Z",
+      "coordinates": { "latitude": 55.7558, "longitude": 37.6173 },
+      "quantity": 3,
+      "totalPrice": 1500
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
